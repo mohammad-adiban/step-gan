@@ -1,0 +1,8 @@
+@inproceedings{adiban2021step,
+  title={Step-gan: A one-class anomaly detection model with applications to power system security},
+  author={Adiban, Mohammad and Safari, Arash and Salvi, Giampiero},
+  booktitle={ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={2605--2609},
+  year={2021},
+  organization={IEEE}
+}
